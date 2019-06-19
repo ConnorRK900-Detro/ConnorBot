@@ -1,0 +1,2 @@
+# ConnorBot
+discord connor bot
